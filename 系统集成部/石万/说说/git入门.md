@@ -13,7 +13,10 @@
 > 例子：HntyCloud 海纳天鹰云后台工程 
 
 ### Clone克隆远程仓库     
-1. 进入gitlab项目对应页面，点击复制项目地址 ![](/系统集成部/石万/resource/TIM截图20180414145804.png)
+1. 进入gitlab项目对应页面，点击复制项目地址 
+
+    ![](/系统集成部/石万/resource/TIM截图20180414145804.png)
+
 2. 打开github desktop  
 
     (1) 点击File，点击Clone Repository 
