@@ -12,6 +12,11 @@
 ## 快速入门(维护已有项目，且已被管理员添加进项目，默认master分支)
 > 例子：HntyCloud 海纳天鹰云后台工程 
 
+### `针对gitlab从https://gitlab.hntynb.cn迁移到https://gitlab.hntyhb.com.cn且.com.cn还未备案成功的情况下，请输入以下命令，忽略安全证书的问题。`
+```shell
+ git config --global http.sslVerify "false"  
+```
+
 ### Clone克隆远程仓库     
 1. 进入gitlab项目对应页面，点击复制项目地址 
 
