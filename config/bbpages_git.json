@@ -7,7 +7,8 @@
             { "title": "gitlab成员的权限", "path": "系统集成部/石万/说说/成员的权限.md"},
             { "title": "gitlab创建新项目或添加已有项目", "path": "系统集成部/石万/说说/gitlab创建新项目或添加已有项目.md"},
             { "title": "gitlab建立分组及设置权限", "path": "系统集成部/石万/说说/gitlab建立分组及设置权限.md"},
-            { "title": "github Desktop客户端使用说明", "path": "系统集成部/石万/说说/github Desktop客户端使用说明.md"}
+            { "title": "github Desktop客户端使用说明", "path": "系统集成部/石万/说说/github Desktop客户端使用说明.md"},
+            { "title": "普通项目转换为gitlab项目", "path": "系统集成部/石万/说说/普通项目转换为gitlab项目.md"}
         ]
     }]
 }
