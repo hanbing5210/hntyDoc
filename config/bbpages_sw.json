@@ -20,7 +20,7 @@
     }, {
         "title": "笔记", 
         "list": [
-            
+            { "title": "showdoc部署", "path": "系统集成部/石万/笔记/showdoc部署.md"}
         ]
     }]
 }
