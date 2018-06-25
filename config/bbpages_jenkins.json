@@ -1,0 +1,11 @@
+{
+    "footer": "jenkins相关教程",
+    "list": [{
+        "title": "jenkins入门", 
+        "list": [
+            { "title": "基础环境准备", "path": "系统集成部/石万/笔记/jenkins环境准备.md"}, 
+            { "title": "centos7.2安装jenkins", "path": "系统集成部/石万/笔记/centos7.2安装jenkins.md"},
+            { "title": "ubuntu安装jenkins", "path": "系统集成部/石万/笔记/ubuntu安装jenkins.md"}
+        ]
+    }]
+}
