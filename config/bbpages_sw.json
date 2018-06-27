@@ -15,16 +15,16 @@
         "list": [
             { "title": "关于原型设计", "path": "系统集成部/石万/说说/关于原型设计.md"},
             { "title": "git入门", "path": "系统集成部/石万/说说/git入门.md"},
-            { "title": "axure协同说明", "path": "系统集成部/石万/说说/axure协同说明.md"},
-            { "title": "jenkins添加gitlab项目", "path": "系统集成部/石万/说说/jenkins添加gitlab项目.md"},
-            { "title": "jenkins添加github项目", "path": "系统集成部/石万/说说/jenkins添加github项目.md"}
+            { "title": "axure协同说明", "path": "系统集成部/石万/说说/axure协同说明.md"}
         ]
     }, {
         "title": "笔记", 
         "list": [
             { "title": "showdoc部署", "path": "系统集成部/石万/笔记/showdoc部署.md"},
             { "title": "ubuntu安装jenkins", "path": "系统集成部/石万/笔记/ubuntu安装jenkins.md"},
-            { "title": "centos7.2安装jenkins", "path": "系统集成部/石万/笔记/centos7.2安装jenkins.md"}
+            { "title": "centos7.2安装jenkins", "path": "系统集成部/石万/笔记/centos7.2安装jenkins.md"},
+            { "title": "jenkins添加gitlab项目", "path": "系统集成部/石万/笔记/jenkins添加gitlab项目.md"},
+            { "title": "jenkins添加github项目", "path": "系统集成部/石万/笔记/jenkins添加github项目.md"}
         ]
     }]
 }
