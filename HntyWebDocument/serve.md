@@ -1,5 +1,6 @@
 ## index页面
-> nginx代理静态web服务, 因为有惰性加载，所以会有许多chunk.js
+> nginx代理静态web服务, 因为有惰性加载，所以会有许多chunk.js  
+
 ```shell
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
@@ -41,7 +42,8 @@ d-----        2018/6/29     17:18                assets
 > node --max_old_space_size=8192 "node_modules\@angular\cli\bin\ng" build --prod --aot 
 
 ## 编译输出文件夹
-> AppClients/dist
+> AppClients/dist    
+
 * inline.bundle.js
 * polyfills.bundle.js
 * scripts.bundle.js

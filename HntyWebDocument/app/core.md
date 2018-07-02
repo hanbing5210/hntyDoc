@@ -4,7 +4,8 @@
 * core.module
 
 ### auth-guard.service
-> 路由守护文件，在各个router文件里使用。对需要登陆操作的路由进行守护
+> 路由守护文件，在各个router文件里使用。对需要登陆操作的路由进行守护    
+
 ```js
   // 核心代码
   canActivate(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): boolean {
@@ -29,7 +30,8 @@
 ```
 
 ### auth.service
-> 用户登陆，登出。及权限管理   
+> 用户登陆，登出。及权限管理     
+
 ```typescript
   // 用户登陆
   login(): boolean {
@@ -58,7 +60,8 @@
 ```
 
 ### core.module
-> 配置authHttp，配合localStorage进行jwt验证（**预留 JWT 接口未启用**）
+> 配置authHttp，配合localStorage进行jwt验证（**预留 JWT 接口未启用**）    
+
 ```typescript
 export function authHttpServiceFactory(http: Http, options: RequestOptions) {
     return new AuthHttp(new AuthConfig({
