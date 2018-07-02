@@ -6,6 +6,7 @@
             { "title": "readme", "path": "HntyWebDocument/readme.md"},
             { "title": "版本", "path": "HntyWebDocument/version.md"},
             { "title": "开发编译", "path": "HntyWebDocument/serve.md"},
+            { "title": "nginx", "path": "HntyWebDocument/nginx.md"},
             { "title": "app", "path": "HntyWebDocument/app/app.md"},
             { "title": "core", "path": "HntyWebDocument/app/core.md"},
             { "title": "shared", "path": "HntyWebDocument/app/shared.md"},
