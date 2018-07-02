@@ -1,0 +1,15 @@
+{
+    "footer": "文档->_->",
+    "list": [{
+        "title": "HntyWebDocument前台开发文档",
+        "list": [
+            { "title": "readme", "path": "HntyWebDocument/readme.md"},
+            { "title": "版本", "path": "HntyWebDocument/version.md"},
+            { "title": "开发编译", "path": "HntyWebDocument/serve.md"},
+            { "title": "app", "path": "HntyWebDocument/app/app.md"},
+            { "title": "core", "path": "HntyWebDocument/app/core.md"},
+            { "title": "shared", "path": "HntyWebDocument/app/shared.md"},
+            { "title": "test", "path": "HntyWebDocument/app/test.md"}
+        ]
+    }]
+}
